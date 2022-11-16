@@ -21,7 +21,7 @@ Then place it on your root or in a folder named ##"Packages"## on your USB flash
 This does require a PlayStation(R)3 system with either HEN or CFW installed to run.
 
 # WARNING: #
-if anyone asks you to pay for this software, ## DO NOT PAY THEM! ##. This software will always remain free,and if someone is asking or making you pay to use this software they are attempting to steal personal information, money etc from you, always visit the official github and official social networks for PS2 Classics Vault.
+if anyone asks you to pay for this software, ##DO NOT PAY THEM!##. This software will always remain free,and if someone is asking or making you pay to use this software they are attempting to steal personal information, money etc from you, always visit the official github and official social networks for PS2 Classics Vault.
 
 # join Us: #
 
