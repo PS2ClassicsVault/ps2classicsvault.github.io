@@ -1,0 +1,16 @@
+# Welcome to the Vault #
+
+Welcome if you are here from ps2classicsvault.com then you are in the right place.
+
+We created this github repository to give everyone the ability to keep using our services even after the death of the our website.
+
+Below we will provide instructions on how to setup PKGi if you wish to add it to your existing PKGi app, if you want to go the easier way you can download our official ## PS2CV Store ## for PS3 that includes our full libary of games and NoPayStationV3 (NPS) is also included in one package.
+
+# Manual Setup: #
+
+If you wish to add them manually you will need this url: https://github.com/PS2ClassicsVault/PS2-Classics-Vault-Database/raw/main/ and after the last ##"/"## of the url place the file name you see on this repository such as for example https://github.com/PS2ClassicsVault/PS2-Classics-Vault-Database/raw/main/ps3_games.tsv
+
+For NoPaySation Content we already included NPS games in the ## ps3_games.tsv ##, but you will need to manually add dlcs, themes, demos and avatars to your config.txt from NoPayStation.
+
+## For Automatic Install: ##
+
