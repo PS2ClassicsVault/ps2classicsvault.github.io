@@ -1,4 +1,4 @@
-# Welcome to the Vault #
+# Welcome to PS2 Classics Vault #
 
 Welcome if you are here from ps2classicsvault.com then you are in the right place.
 
