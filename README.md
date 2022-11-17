@@ -10,7 +10,7 @@ Below we will provide instructions on how to setup PKGi if you wish to add it to
 
 If you wish to add them manually you will need this url: https://github.com/PS2ClassicsVault/PS2-Classics-Vault-Database/raw/main/ and after the last "/" of the url place the file name you see on this repository such as for example https://github.com/PS2ClassicsVault/PS2-Classics-Vault-Database/raw/main/ps3_games.tsv
 
-For NoPaySation Content we already included NPS games in the ps3_games.tsv, but you will need to manually add dlcs, themes, demos and avatars to your config.txt from NoPayStation. if you do not have a pre-made config.txt file, we have provided one here: https://github.com/PS2ClassicsVault/PS2-Classics-Vault/blob/main/config.txt but will require to manually setup with the correct url to work.
+For NoPaySation Content we already included NPS games in the ps3_games.tsv, but you will need to manually add dlcs, themes, demos and avatars to your config.txt from NoPayStation. if you do not have a pre-made config.txt file, we have provided one here: https://github.com/PS2ClassicsVault/PS2-Classics-Vault/blob/main/config.txt but will require to manually setup with the correct urls to work.
 
 # Automatic Install: #
 
