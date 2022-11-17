@@ -1,6 +1,6 @@
 # Welcome to PS2 Classics Vault #
 
-Welcome if you are here from ps2classicsvault.com then you are in the right place.
+Welcome if you are here for ps2classicsvault.com then you are in the right place.
 
 We created this github repository to give everyone the ability to keep using our services even after the death of the our website.
 
