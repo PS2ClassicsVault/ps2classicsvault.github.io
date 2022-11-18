@@ -23,7 +23,7 @@ This does require a PlayStation(R)3 system with either HEN or CFW installed to r
 # WARNING: #
 if anyone asks you to pay for this software, DO NOT PAY THEM. This software will always remain free and if someone is asking or making you pay to use this software they are attempting to steal personal information, money etc from you, always visit the official github and official social networks for PS2 Classics Vault.
 
-# NOTICE: # All PS1, PS2 & PS3 Classics Vault games all require to be DIRECTLY downloaded and NOT background downloaded, this is because the PlayStation(R)3's background downloads mechanic will not properly save the content correctly  resulting in users seeing an error when attempting to install the content. NPS content is not affected and can still be background downloaded, its only PS1/PS2/PS3 Classics Vault games that are affected!
+#NOTICE:# All PS1, PS2 & PS3 Classics Vault games all require to be DIRECTLY downloaded and NOT background downloaded, this is because the PlayStation(R)3's background downloads mechanic will not properly save the content correctly  resulting in users seeing an error when attempting to install the content. NPS content is not affected and can still be background downloaded, its only PS1/PS2/PS3 Classics Vault games that are affected!
 
 # Join Us: #
 
