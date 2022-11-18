@@ -1,6 +1,6 @@
 # Welcome to PS2 Classics Vault #
 
-Welcome if you are here for ps2classicsvault.com then you are in the right place.
+Welcome if you are here for ps2classicsvault.com then you are in the right place. Our store contains games from the PS1, PS2 & PS3 in one package!
 
 We created this github repository to give everyone the ability to keep using our services even after the death of the our website.
 
