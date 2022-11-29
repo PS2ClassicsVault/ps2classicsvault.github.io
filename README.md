@@ -1,5 +1,7 @@
 # Welcome to PS2 Classics Vault #
 
+# This project will no longer exist after Jan, 2023, as aprt of moving it to a new platform #
+
 Welcome if you are here for ps2classicsvault.com then you are in the right place. Our store contains games from the PS1, PS2 & PS3 in one package!
 
 We created this github repository to give everyone the ability to keep using our services even after the death of the our website.
