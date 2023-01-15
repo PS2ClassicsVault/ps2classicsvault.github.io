@@ -8,7 +8,7 @@ See what games we have available here: http://ps2classicsvault.mobie.in/database
 
 # Automatic Install: #
 
-you will need to download our official PS2CV Store app for your PlayStation(R)3 system from here: https://github.com/PS2ClassicsVault/PS2-Classics-Vault-Database/releases/tag/v1.17
+you will need to download our official PS2CV Store app for your PlayStation(R)3 system from here: https://github.com/PS2ClassicsVault/PS2-Classics-Vault-Database/releases/tag/v1.18
 
 Then place it on your root or in a folder named "Packages" on your USB flash drive and then install it using "Package Manager" witch will be located in the Game category on your XMB menu. You can also transfer the pkg file over FTP by placing the pkg file in the following directory "dev_hdd0/packages"
 
@@ -24,5 +24,5 @@ All PS1, PS2 & PS3 Classics Vault games all require to be DIRECTLY downloaded an
 
 Reddit: https://www.reddit.com/r/ps2classicsvault
 
-# Buy Us a Coffee: #
+# Buy me a Coffee: #
 PayPal: https://paypal.me/CyberGamingStudios
