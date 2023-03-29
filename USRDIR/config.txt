@@ -1,0 +1,15 @@
+url_games linknotavailabletopublic
+url_tools linknotavailabletopublic
+url_dlcs linknotavailabletopublic
+url_themes linknotavailabletopublic
+url_avatars linknotavailabletopublic
+url_demos linknotavailabletopublic
+url_apps linknotavailabletopublic
+url_emulators linknotavailabletopublic
+url_updates linknotavailabletopublic
+language en
+content 1
+sort name
+order asc
+filter ASA,EUR,JPN,USA
+no_music 1
