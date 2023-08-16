@@ -24,5 +24,7 @@ All PS1, PS2 & PS3 Classics Vault games all require to be DIRECTLY downloaded an
 
 Reddit: https://www.reddit.com/r/ps2classicsvault
 
-# Buy me a Coffee: #
-PayPal: https://paypal.me/CyberGamingStudios
+# Support us via Patreon: #
+PS2CV: https://patreon.com/ps2cv
+
+Patreon members have access to download out games to their PC, Priority Game Request fulfillment and a dedicated patreaon flair on our sub reddit (please provide your userhandle by sending us a message 👍
