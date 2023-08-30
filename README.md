@@ -2,7 +2,7 @@
 
 ## What users can do: ##
 
-* SHARE - copy and redistribute the material in any medium or format
+* SHARE - copy and redistribute the URL of the website https://ps2classicsvault.github.io/
 
 The licensor cannot revoke these freedoms as long as you follow the license terms.
 
@@ -10,8 +10,7 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 ## Under The Following Terms: ##
 
-* Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-
+* Source Code Redistribution — You may not copy the source code, create links to the code & download/copy images within the code to redistribute the material in any medium or format. 
 
 * NonCommercial — You may not use the material for commercial purposes.
 
