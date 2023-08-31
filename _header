@@ -5,7 +5,7 @@
 		"@context": "http://schema.org",
 		"@type": "Organization",
 		"name": "",
-		"logo": "http://ps2classicsvault.mobie.in/images/ps2cvlogoofficial.png"
+		"logo": "images/ps2cvlogoofficial.png"
 }</script>
     <meta name="theme-color" content="#478ac9" />
     <meta property="og:title" content="PS1 Classics Games" />
