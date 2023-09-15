@@ -1,10 +1,8 @@
 # Welcome to PS2 Classics Vault #
 
-Welcome if you are here for ps2classicsvault.com then you are in the right place. Our store contains games from the PS1, PS2 & PS3 in one package!
+Welcome if you are here for ps2classicsvault then you are in the right place. Our store contains games from the PS1, PS2 & PS3 in one package!
 
-Join us on our new site: http://ps2classicsvault.mobie.in/
-
-See what games we have available here: http://ps2classicsvault.mobie.in/database.html
+Join us on our new site: https://ps2classicsvault.github.io
 
 # Automatic Install: #
 
