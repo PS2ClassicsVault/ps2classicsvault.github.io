@@ -13,7 +13,7 @@ body{
   <link rel="stylesheet" href="style.css">
   <body>
     <div>
-    <iframe id="myFrame" src="https://www.youtube.com/embed/QbTKQcKhTAY?si=EKFAjulF4UrsFq3H" width="3840" height="2160" frameborder="0" allowfullscreen> . 
+    <iframe id="myFrame" src="https://www.youtube.com/embed/QbTKQcKhTAY?si=EKFAjulF4UrsFq3H" width="3840" height="2160" frameborder="1" allowfullscreen> . 
     </iframe>
 </div>
 
@@ -22,8 +22,8 @@ body{
         var wscreen = window.innerWidth;
         var hscreen = window.innerHeight;
 
-        document.getElementById("myFrame").width = innerscreen ;
-        document.getElementById("myFrame").height = innerscreen ;
+        document.getElementById("myFrame").width = wscreen ;
+        document.getElementById("myFrame").height = hscreen ;
     }
 
     myFunction();
