@@ -12,21 +12,24 @@ body{
 </style>
   <link rel="stylesheet" href="style.css">
   <body>
-    <div>
-    <iframe id="myFrame" src="https://www.youtube.com/embed/QbTKQcKhTAY?si=EKFAjulF4UrsFq3H" width="3840" height="2160" frameborder="0" allowfullscreen> . 
-    </iframe>
+   <div class="blogwidevideo">
+<iframe width="854" height="480" style="margin: auto;" src="https://youtu.be/QbTKQcKhTAY?si=QPCDuWoaxL8RH9X3" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<script>
-    function myFunction() {
-        var wscreen = window.innerWidth;
-        var hscreen = window.innerHeight;
+.blogwidevideo {    
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;    
+}
 
-        document.getElementById("myFrame").width = 1920 ;
-        document.getElementById("myFrame").height = 1080 ;
-    }
-
-    myFunction();
+.blogwidevideo iframe {   
+    left:10%; //centers for the 80% width - not needed if width is 100%
+    top:0;
+    height:80%; //change to 100% if going full width
+    width:80%;
+    position:absolute;
+}
 
     window.addEventListener('resize', function(){ myFunction(); });
 </script>
