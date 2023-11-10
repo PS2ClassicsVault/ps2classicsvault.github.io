@@ -12,6 +12,23 @@ body{
 </style>
   <link rel="stylesheet" href="style.css">
   <body>
-    <iframe width="1920" height="1080" text-align:center src="https://www.youtube.com/embed/QbTKQcKhTAY?si=EKFAjulF4UrsFq3H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <div>
+    <iframe id="myFrame" src="https://www.youtube.com/embed/QbTKQcKhTAY?si=EKFAjulF4UrsFq3H" width="1920" height="1080" frameborder="0" allowfullscreen> . 
+    </iframe>
+</div>
+
+<script>
+    function myFunction() {
+        var wscreen = window.innerWidth;
+        var hscreen = window.innerHeight;
+
+        document.getElementById("myFrame").width = wscreen ;
+        document.getElementById("myFrame").height = hscreen ;
+    }
+
+    myFunction();
+
+    window.addEventListener('resize', function(){ myFunction(); });
+</script>
   </body>
      </html>
