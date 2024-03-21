@@ -12,6 +12,8 @@ FAILURE TO COMPLY AGREEMENT:
 
 The task of keeping these servers running takes hard work, and in order to keep these services available, there is a cost. By violating these terms, it makes it possible for these services to be shut down. This project is funded by the community, and in order to be enjoyed by all, it is important that this agreement be followed.
 
+By using our files/services even for your personal benefit you agree that if you violate this agreement you will PS2 Classics Vault is proceed in looking into legal action towards you for violating this agreement.
+
 WHY DID WE MAKE THIS CHANGE?
 
 These changes were made as it has been discovered that one user has been sharing links. This may not seem like it is that important, but in order to keep these services going, if one were to want access, they would need to pay. It was known that this might happen, but we as a service were hopeful that the honor of users would keep them from sharing links.
