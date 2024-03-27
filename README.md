@@ -24,6 +24,9 @@ If you have the vanilla version of PKGi, it is HIGHLY RECOMMENDED to unistall th
 # NOTICE #3: #
 We are currently transferring games to a new server, if you magically encountered our old download server please be aware we are purging that server and new server will no longer be publicly available to view and download from a PC unless you have pledged to our patreon subscription witch is the only way to download our games on a PC. (Patreon links does change regularly), however you do not need a patreon subscription if you are downloading the games from the new server using the PS2CV Store app for the PlayStation(R)3 system. You can poledge to us anytime you like by going to: https://patreon.com/ps2cv with pledging to us you gain acess to game request priority, a dedicated user flair showing others your a patreon supporter and allowing our team to prioritize your requests and have full access to our libary of games to download directly to your PC with faster speeds then downloading them on a ps3 that has a network speed hardware limitation (Pledging to our patreon is optional ,however it does grant you additional benefits and helps keep the server online and is greatly appreciated).
 
+# NOTICE 4: #
+We do not condone piracy, we are only preserving the classics in a different form for the future. We also will NOT be providing any software that was developed by Nintendo so pleasee do not ask us for nintendo content!
+
 # Join Us: #
 
 Reddit: https://www.reddit.com/r/ps2classicsvault
