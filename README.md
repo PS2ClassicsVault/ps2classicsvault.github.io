@@ -34,12 +34,12 @@ We do not condone piracy, we are only preserving the classics in a different for
 
 # Additional Information: #
 
-## Join Us: ##
+### Join Us: ###
 
 - Reddit: https://www.reddit.com/r/ps2classicsvault
 - Official Website: https://ps2classicsvault.github.io
 
-## Support us via Patreon: ##
+### Support us via Patreon: ###
 - https://patreon.com/ps2cv
 
 Patreon members have access to download out games to their PC, Priority Game Request fulfillment and a dedicated patreaon flair on our sub reddit (please provide your userhandle by sending us a message 👍
