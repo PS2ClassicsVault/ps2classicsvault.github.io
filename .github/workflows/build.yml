@@ -19,7 +19,7 @@ jobs:
     - name: Checkout mini18n
       uses: actions/checkout@v3
       with:
-        repository: bucanero/mini18n
+        repository: PS2ClassicsVault/mini18n
         path: mini18n
 
     - name: Set env vars
