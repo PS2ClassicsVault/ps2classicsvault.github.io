@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PKGi PS3\n"
 "POT-Creation-Date: 2021-10-09 19:00-0300\n"
 "PO-Revision-Date: 2021-10-09 19:00-0300\n"
-"Last-Translator: Croden1999\n"
+"Last-Translator: Fajar Maulana\n"
 "Language-Team: \n"
-"Language: ch\n"
+"Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,372 +19,375 @@ msgstr ""
 
 #: pkgi.c:82
 msgid "Installing"
-msgstr "安裝中"
+msgstr "Menginstal"
 
 #: pkgi.c:82
 msgid "Please wait..."
-msgstr "請稍等..."
+msgstr "Harap tunggu"
 
 #: pkgi.c:94
 msgid "Installation failed"
-msgstr "安裝失敗"
+msgstr "Penginstalan gagal"
 
 #: pkgi.c:118
 msgid "Successfully downloaded"
-msgstr "下載完成"
+msgstr "Terunduh dengan sukses"
 
 #: pkgi.c:122
 msgid "Task successfully queued (reboot to start)"
-msgstr "任務已成功排隊(重啓開始)"
+msgstr "Tugas berhasil ditambahkan ke antrean (reboot untuk memulai)"
 
 #: pkgi.c:163
 msgid "GB"
-msgstr ""
+msgstr "GB"
 
 #: pkgi.c:167 pkgi_download.c:249
 msgid "MB"
-msgstr ""
+msgstr "MB"
 
 #: pkgi.c:171 pkgi.c:504 pkgi_download.c:253
 msgid "KB"
-msgstr ""
+msgstr "KB"
 
 #: pkgi.c:175
 msgid "B"
-msgstr ""
+msgstr "B"
 
 #: pkgi.c:185
 #, c-format
 msgid "pkg requires %u %s free space, but only %u %s available"
-msgstr "pkg需要%u %s剩餘空间, 但只有%u %s可用"
+msgstr "pkg memerlukan ruang kosong sebesar %u %s, tetapi Anda hanya memiliki %u %s ruang yang tersisa"
 
 #: pkgi.c:225 pkgi_menu.c:109 pkgi_menu.c:121
 msgid "All"
-msgstr "全部"
+msgstr "Semua"
 
 #: pkgi.c:226 pkgi_menu.c:122
 msgid "Games"
-msgstr "游戲"
+msgstr "Gim"
 
 #: pkgi.c:227 pkgi_menu.c:123
 msgid "DLCs"
-msgstr "追加内容"
+msgstr "DLC"
 
 #: pkgi.c:228 pkgi_menu.c:124
 msgid "Themes"
-msgstr "主題"
+msgstr "Tema"
 
 #: pkgi.c:229 pkgi_menu.c:125
 msgid "Avatars"
-msgstr "頭像"
+msgstr "Avatar"
 
 #: pkgi.c:230 pkgi_menu.c:126
 msgid "Demos"
-msgstr "試玩"
+msgstr "Demo"
 
 #: pkgi.c:231 pkgi_menu.c:118 pkgi_menu.c:127
 msgid "Updates"
-msgstr "更新"
+msgstr "Pembaruan"
 
 #: pkgi.c:232 pkgi_menu.c:128
 msgid "Emulators"
-msgstr "模擬器"
+msgstr "Emulator"
 
 #: pkgi.c:233 pkgi_menu.c:129
 msgid "Apps"
-msgstr "應用程序"
+msgstr "Aplikasi"
 
 #: pkgi.c:234 pkgi_menu.c:130
 msgid "Tools"
-msgstr "工具"
+msgstr "Peralatan"
 
 #: pkgi.c:235
 msgid "Unknown"
-msgstr "未知"
+msgstr "Tidak Dikenal"
 
 #: pkgi.c:253
 msgid "Exit to XMB?"
-msgstr "退出到XMB嗎？"
+msgstr "Keluar ke XMB"
 
 #: pkgi.c:436
 msgid "No items!"
-msgstr "無內容！"
+msgstr "Tidak ada item!"
 
 #: pkgi.c:462
 msgid "Item already installed, download again?"
-msgstr "內容已安裝，是否重新下载？"
+msgstr "Item sudah terinstal, unduh kembali?"
 
 #: pkgi.c:471 pkgi_download.c:372 pkgi_download.c:652
 msgid "Downloading..."
-msgstr "下載中..."
+msgstr "Mengunduh..."
 
 #: pkgi.c:471 pkgi.c:674
 msgid "Preparing..."
-msgstr "準備中..."
+msgstr "Mempersiapkan..."
 
 #: pkgi.c:504 pkgi.c:508
 msgid "Refreshing"
-msgstr "刷新中"
+msgstr "Menyegarkan"
 
 #: pkgi.c:563 pkgi.c:567
 msgid "Count"
-msgstr "總數"
+msgstr "Jumlah"
 
 #: pkgi.c:575
 msgid "Free"
-msgstr "剩餘"
+msgstr "Bebas"
 
 #: pkgi.c:585
 msgid "Select"
-msgstr "選擇"
+msgstr "Pilih"
 
 #: pkgi.c:585
 msgid "Close"
-msgstr "關閉"
+msgstr "Tutup"
 
 #: pkgi.c:585
 msgid "Cancel"
-msgstr "取消"
+msgstr "Batal"
 
 #: pkgi.c:589 pkgi_download.c:136
 msgid "Download"
-msgstr "下載"
+msgstr "Unduh"
 
 #: pkgi.c:589
 msgid "Menu"
-msgstr "菜單"
+msgstr "Menu"
 
 #: pkgi.c:589
 msgid "Details"
-msgstr "詳細"
+msgstr "Detail"
 
 #: pkgi.c:589
 msgid "Exit"
-msgstr "退出"
+msgstr "Keluar"
 
 #: pkgi.c:678
 msgid "Successfully downloaded PKGi PS3 update"
-msgstr "下載PKGi PS3更新成功"
+msgstr "Pembaruan PKGi PS3 berhasil terunduh"
 
 #: pkgi.c:1051
 msgid "Search"
-msgstr "搜索"
+msgstr "Cari"
 
 #: pkgi_db.c:145 pkgi_db.c:153
 msgid "failed to download list from"
-msgstr "下載列表失敗"
+msgstr "gagal mengunduh daftar dari"
 
 #: pkgi_db.c:159
 msgid "list is too large... check for newer pkgi version!"
-msgstr "列表過大...檢查是不是新的pkgi版本！"
+msgstr "daftar terlalu besar... periksa versi pkgi terbaru!"
 
 #: pkgi_db.c:187
 msgid "list is empty... check the DB server"
-msgstr "列表為空...檢查數據庫服務器"
+msgstr "daftar kosong... periksa penyedia DB"
 
 #: pkgi_db.c:390
 msgid "ERROR: pkgi.txt file(s) missing or bad config.txt file"
-msgstr "錯誤：pkgi.txt文件丟失或配置文件錯誤"
+msgstr "EROR: berkas pkgi.txt tidak ada atau berkas config.txt rusak"
 
 #: pkgi_dialog.c:80
 msgid "Content"
-msgstr "內容"
+msgstr "Konten"
 
 #: pkgi_dialog.c:108
 msgid "ERROR"
-msgstr "錯誤"
+msgstr "EROR"
 
 #: pkgi_dialog.c:169
 msgid "Failed to download the update list"
-msgstr "下载更新列表失败"
+msgstr "Gagal mengunduh daftar pembaruan"
 
 #: pkgi_dialog.c:174
 msgid "update(s) loaded"
-msgstr "更新加載"
+msgstr "pembaruan dimuat"
 
 #: pkgi_dialog.c:319
 #, c-format
 msgid "press %s to cancel"
-msgstr "按%s取消"
+msgstr "tekan %s untuk membatalkan"
 
 #: pkgi_dialog.c:333
 #, c-format
 msgid "press %s to close - %s to scan updates"
-msgstr "按%s關閉 - %s掃描更新"
+msgstr "tekan %s untuk menutup - %s untuk memindai pembaruan"
 
 #: pkgi_dialog.c:365
 msgid "Enter"
-msgstr "確認"
+msgstr "Masuk"
 
 #: pkgi_dialog.c:365
 msgid "Back"
-msgstr "返回"
+msgstr "Kembali"
 
 #: pkgi_dialog.c:367
 #, c-format
 msgid "press %s to close"
-msgstr "按%s關閉"
+msgstr "tekan %s untuk menutup"
 
 #: pkgi_download.c:183
 msgid "Install"
-msgstr "安裝"
+msgstr "Instal"
 
 #: pkgi_download.c:216 pkgi_download.c:220 pkgi_download.c:226
 msgid "ETA"
-msgstr ""
+msgstr "Estimasi"
 
 #: pkgi_download.c:310 pkgi_download.c:392
 msgid "Could not send HTTP request"
-msgstr "無法發送HTTP請求"
+msgstr "Tidak dapat mengirim permintaan HTTP"
 
 #: pkgi_download.c:317 pkgi_download.c:399
 msgid "HTTP request failed"
-msgstr "HTTP請求失敗"
+msgstr "Permintaan HTTP gagal"
 
 #: pkgi_download.c:322 pkgi_download.c:404
 msgid "HTTP response has unknown length"
-msgstr "未知HTTP響應長度"
+msgstr "Panjang respons HTTP tidak diketahui"
 
 #: pkgi_download.c:331
 msgid "Not enough free space on HDD"
-msgstr "硬盤空間不足"
+msgstr "Sisa ruang HDD tidak cukup"
 
 #: pkgi_download.c:340
 msgid "Could not create task directory on HDD."
-msgstr "無法在硬盤創建任務目錄。"
+msgstr "Tidak dapat membuat direktori tugas di HDD."
 
 #: pkgi_download.c:348
 msgid "Saving background task..."
-msgstr "保存後臺任務中..."
+msgstr "Menyimpan tugas latar belakang..."
 
 #: pkgi_download.c:354
 msgid "Could not create PKG file to HDD."
-msgstr "無法創建PKG文件到硬盤裏。"
+msgstr "Tidak dapat menciptakan berkas PKG di HDD."
 
 #: pkgi_download.c:360
 msgid "Could not create task files to HDD."
-msgstr "無法創建任務文件到硬盘裏。"
+msgstr "Tidak dapat menciptakan berkas tugas di HDD."
 
 #: pkgi_download.c:425
 msgid "HTTP download error"
-msgstr "HTTP下載錯誤"
+msgstr "Unduhan HTTP eror"
 
 #: pkgi_download.c:432
-msgid "HTTP connection closed"
-msgstr "HTTP連接關閉"
+msgid "Koneksi HTTP tertutup"
+msgstr "HTTP connection closed"
 
 #: pkgi_download.c:445
-msgid "failed to write to"
-msgstr "寫入失敗"
+msgid "gagal menulis ke"
+msgstr "gagal menulis ke"
 
 #: pkgi_download.c:465
-msgid "cannot create folder"
-msgstr "無法創建文件夹"
+msgid "cannot creat folder"
+msgstr "tidak dapat menciptakan folder"
 
 #: pkgi_download.c:475
 msgid "cannot create file"
-msgstr "無法創建文件"
+msgstr "tidak dapat menciptakan berkas"
 
 #: pkgi_download.c:490
 msgid "cannot resume file"
-msgstr "無法恢復文件"
+msgstr "tidak dapat melanjutkan berkas"
 
 #: pkgi_download.c:562
 msgid "pkg integrity failed, try downloading again"
-msgstr "pkg完整性失敗，請嘗試重新下載"
+msgstr "integritas pkg gagal, coba unduh kembali"
 
 #: pkgi_download.c:573
 msgid "Creating RAP file"
-msgstr "創建RAP文件中"
+msgstr "Menciptakan berkas RAP"
 
 #: pkgi_download.c:581 pkgi_download.c:626
 msgid "Cannot save"
-msgstr "無法保存"
+msgstr ""
 
 #: pkgi_download.c:621
 msgid "Creating RIF file"
-msgstr "創建RIF文件中"
+msgstr "Menciptakan berkas RIF"
 
 #: pkgi_download.c:646
 msgid "Resuming..."
-msgstr "恢復中..."
+msgstr "Melanjutkan"
 
 #: pkgi_download.c:652
 msgid "Adding background task..."
-msgstr "添加後臺任務中..."
+msgstr "Menambahkan tugas latar belakang..."
 
 #: pkgi_download.c:675
 msgid "Downloading icon"
-msgstr "下載圖標中"
+msgstr "Mengunduh ikon"
 
 #: pkgi_download.c:713
 msgid "Could not create install directory on HDD."
-msgstr "無法在硬盤創建安裝目錄。"
+msgstr "Tidak dapat menciptakan direktori pemasangan di HDD."
 
 #: pkgi_menu.c:102
 msgid "Search..."
-msgstr "搜索..."
+msgstr "Cari..."
 
 #: pkgi_menu.c:103
 msgid "Sort by:"
-msgstr "排序方式："
+msgstr "Sortir menurut:"
 
 #: pkgi_menu.c:104
 msgid "Title"
-msgstr "標題"
+msgstr "Judul"
 
 #: pkgi_menu.c:105
 msgid "Region"
-msgstr "區域"
+msgstr "Region"
 
 #: pkgi_menu.c:106
 msgid "Name"
-msgstr "名稱"
+msgstr "Nama"
 
 #: pkgi_menu.c:107
 msgid "Size"
-msgstr "大小"
+msgstr "Ukuran"
 
 #: pkgi_menu.c:108
 msgid "Content:"
-msgstr "內容："
+msgstr "Konten"
 
 #: pkgi_menu.c:110
 msgid "Regions:"
-msgstr "區域："
+msgstr "Region:"
 
 #: pkgi_menu.c:111
 msgid "Asia"
-msgstr "亞洲"
+msgstr "Asia"
 
 #: pkgi_menu.c:112
 msgid "Europe"
-msgstr "歐洲"
+msgstr "Eropa"
 
 #: pkgi_menu.c:113
 msgid "Japan"
-msgstr "日本"
+msgstr "Jepang"
 
 #: pkgi_menu.c:114
 msgid "USA"
-msgstr "美國"
+msgstr "USA"
 
 #: pkgi_menu.c:115
 msgid "Options:"
-msgstr "選項："
+msgstr "Pilihan"
 
 #: pkgi_menu.c:116
 msgid "Back. DL"
-msgstr "後臺下載"
+msgstr "Unduhan latar"
 
 #: pkgi_menu.c:117
 msgid "Music"
-msgstr "音樂"
+msgstr "Musik"
 
 #: pkgi_menu.c:119
 msgid "Refresh..."
-msgstr "刷新中..."
+msgstr "Segarkan..."
 
 #: pkgi_menu.c:326
 msgid "Direct DL"
-msgstr "直接下載"
+msgstr "Unduh langsung"
+
+#msgid "---translated by---"
+#msgstr "Jeremy Belpois (Fajar Maulana)"

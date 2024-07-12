@@ -1,11 +1,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PKGi PS3\n"
-"POT-Creation-Date: 2021-10-09 19:00-0300\n"
-"PO-Revision-Date: 2021-10-09 19:00-0300\n"
-"Last-Translator: Croden1999\n"
+"POT-Creation-Date: 2021-10-09 17:56-0300\n"
+"PO-Revision-Date: 2021-10-09 18:00-0300\n"
+"Last-Translator: DEX357\n"
 "Language-Team: \n"
-"Language: ch\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,23 +19,23 @@ msgstr ""
 
 #: pkgi.c:82
 msgid "Installing"
-msgstr "安裝中"
+msgstr "Instalowanie"
 
 #: pkgi.c:82
 msgid "Please wait..."
-msgstr "請稍等..."
+msgstr "Prosze czekac..."
 
 #: pkgi.c:94
 msgid "Installation failed"
-msgstr "安裝失敗"
+msgstr "Instalacja nie powiodla sie"
 
 #: pkgi.c:118
 msgid "Successfully downloaded"
-msgstr "下載完成"
+msgstr "Pobrano pomyslnie"
 
 #: pkgi.c:122
 msgid "Task successfully queued (reboot to start)"
-msgstr "任務已成功排隊(重啓開始)"
+msgstr "Zadanie pomyslnie umieszczone w kolejce (uruchom ponownie, aby rozpoczac)"
 
 #: pkgi.c:163
 msgid "GB"
@@ -56,335 +56,339 @@ msgstr ""
 #: pkgi.c:185
 #, c-format
 msgid "pkg requires %u %s free space, but only %u %s available"
-msgstr "pkg需要%u %s剩餘空间, 但只有%u %s可用"
+msgstr "pkg wymaga %u %s wolnego miejsca, ale dostepne jest tylko %u %s"
 
 #: pkgi.c:225 pkgi_menu.c:109 pkgi_menu.c:121
 msgid "All"
-msgstr "全部"
+msgstr "Wszystko"
 
 #: pkgi.c:226 pkgi_menu.c:122
 msgid "Games"
-msgstr "游戲"
+msgstr "Gry"
 
 #: pkgi.c:227 pkgi_menu.c:123
 msgid "DLCs"
-msgstr "追加内容"
+msgstr "DLC"
 
 #: pkgi.c:228 pkgi_menu.c:124
 msgid "Themes"
-msgstr "主題"
+msgstr "Motywy"
 
 #: pkgi.c:229 pkgi_menu.c:125
 msgid "Avatars"
-msgstr "頭像"
+msgstr "Awatary"
 
 #: pkgi.c:230 pkgi_menu.c:126
 msgid "Demos"
-msgstr "試玩"
+msgstr "Dema"
 
 #: pkgi.c:231 pkgi_menu.c:118 pkgi_menu.c:127
 msgid "Updates"
-msgstr "更新"
+msgstr "Aktualizacje"
 
 #: pkgi.c:232 pkgi_menu.c:128
 msgid "Emulators"
-msgstr "模擬器"
+msgstr "Emulatory"
 
 #: pkgi.c:233 pkgi_menu.c:129
 msgid "Apps"
-msgstr "應用程序"
+msgstr "Aplikacje"
 
 #: pkgi.c:234 pkgi_menu.c:130
 msgid "Tools"
-msgstr "工具"
+msgstr "Narzedzia"
 
 #: pkgi.c:235
 msgid "Unknown"
-msgstr "未知"
+msgstr "Nieznany"
 
 #: pkgi.c:253
 msgid "Exit to XMB?"
-msgstr "退出到XMB嗎？"
+msgstr "Wyjsc do XMB?"
 
 #: pkgi.c:436
 msgid "No items!"
-msgstr "無內容！"
+msgstr "Zadnych danych!"
 
 #: pkgi.c:462
 msgid "Item already installed, download again?"
-msgstr "內容已安裝，是否重新下载？"
+msgstr "Element juz zainstalowany, pobrac ponownie?"
 
 #: pkgi.c:471 pkgi_download.c:372 pkgi_download.c:652
 msgid "Downloading..."
-msgstr "下載中..."
+msgstr "Sciaganie..."
 
 #: pkgi.c:471 pkgi.c:674
 msgid "Preparing..."
-msgstr "準備中..."
+msgstr "Przygotowanie..."
 
 #: pkgi.c:504 pkgi.c:508
 msgid "Refreshing"
-msgstr "刷新中"
+msgstr "Odswiezanie"
 
 #: pkgi.c:563 pkgi.c:567
 msgid "Count"
-msgstr "總數"
+msgstr "Przeliczanie"
 
 #: pkgi.c:575
 msgid "Free"
-msgstr "剩餘"
+msgstr "Darmowy"
 
 #: pkgi.c:585
 msgid "Select"
-msgstr "選擇"
+msgstr "Wybierz"
 
 #: pkgi.c:585
 msgid "Close"
-msgstr "關閉"
+msgstr "Zamknij"
 
 #: pkgi.c:585
 msgid "Cancel"
-msgstr "取消"
+msgstr "Anuluj"
 
 #: pkgi.c:589 pkgi_download.c:136
 msgid "Download"
-msgstr "下載"
+msgstr "Pobierz"
 
 #: pkgi.c:589
 msgid "Menu"
-msgstr "菜單"
+msgstr "Menu"
 
 #: pkgi.c:589
 msgid "Details"
-msgstr "詳細"
+msgstr "Szczegoly"
 
 #: pkgi.c:589
 msgid "Exit"
-msgstr "退出"
+msgstr "Wyjdz"
 
 #: pkgi.c:678
 msgid "Successfully downloaded PKGi PS3 update"
-msgstr "下載PKGi PS3更新成功"
+msgstr "Pomyslnie pobrano aktualizacje PKGi PS3"
 
 #: pkgi.c:1051
 msgid "Search"
-msgstr "搜索"
+msgstr "Szukaj"
 
 #: pkgi_db.c:145 pkgi_db.c:153
 msgid "failed to download list from"
-msgstr "下載列表失敗"
+msgstr "nie udalo sie pobrac z listy"
 
 #: pkgi_db.c:159
 msgid "list is too large... check for newer pkgi version!"
-msgstr "列表過大...檢查是不是新的pkgi版本！"
+msgstr "lista jest za duza... sprawdz nowsza wersje pkgi!"
 
 #: pkgi_db.c:187
 msgid "list is empty... check the DB server"
-msgstr "列表為空...檢查數據庫服務器"
+msgstr "lista jest pusta... sprawdz serwer DB"
 
 #: pkgi_db.c:390
 msgid "ERROR: pkgi.txt file(s) missing or bad config.txt file"
-msgstr "錯誤：pkgi.txt文件丟失或配置文件錯誤"
+msgstr "BLAD: brak pliku(�w) pkgi.txt lub zly plik config.txt"
 
 #: pkgi_dialog.c:80
 msgid "Content"
-msgstr "內容"
+msgstr "Zawartosc"
 
 #: pkgi_dialog.c:108
 msgid "ERROR"
-msgstr "錯誤"
+msgstr "BLAD"
 
 #: pkgi_dialog.c:169
 msgid "Failed to download the update list"
-msgstr "下载更新列表失败"
+msgstr "Nie udalo sie pobrac listy aktualizacji"
 
 #: pkgi_dialog.c:174
 msgid "update(s) loaded"
-msgstr "更新加載"
+msgstr "zaladowano aktualizacje"
 
 #: pkgi_dialog.c:319
 #, c-format
 msgid "press %s to cancel"
-msgstr "按%s取消"
+msgstr "nacisnij %s aby anulowac"
 
 #: pkgi_dialog.c:333
 #, c-format
 msgid "press %s to close - %s to scan updates"
-msgstr "按%s關閉 - %s掃描更新"
+msgstr "nacisnij %s, aby zamknac - %s aby przeskanowac aktualizacje"
 
 #: pkgi_dialog.c:365
 msgid "Enter"
-msgstr "確認"
+msgstr "Wejdz"
 
 #: pkgi_dialog.c:365
 msgid "Back"
-msgstr "返回"
+msgstr "Cofnij"
 
 #: pkgi_dialog.c:367
 #, c-format
 msgid "press %s to close"
-msgstr "按%s關閉"
+msgstr "nacisnij %s aby zamknac"
 
+#. 00000069 - Display title
 #: pkgi_download.c:183
 msgid "Install"
-msgstr "安裝"
+msgstr "Zainstaluj"
 
 #: pkgi_download.c:216 pkgi_download.c:220 pkgi_download.c:226
 msgid "ETA"
-msgstr ""
+msgstr "ETA"
 
 #: pkgi_download.c:310 pkgi_download.c:392
 msgid "Could not send HTTP request"
-msgstr "無法發送HTTP請求"
+msgstr "Nie mozna wyslac zadania HTTP"
 
 #: pkgi_download.c:317 pkgi_download.c:399
 msgid "HTTP request failed"
-msgstr "HTTP請求失敗"
+msgstr "Zadanie HTTP nie powiodlo sie"
 
 #: pkgi_download.c:322 pkgi_download.c:404
 msgid "HTTP response has unknown length"
-msgstr "未知HTTP響應長度"
+msgstr "Odpowiedz HTTP ma nieznana dlugosc"
 
 #: pkgi_download.c:331
 msgid "Not enough free space on HDD"
-msgstr "硬盤空間不足"
+msgstr "Nie wystarczajaca ilosc miejsca na dysku twardym"
 
 #: pkgi_download.c:340
 msgid "Could not create task directory on HDD."
-msgstr "無法在硬盤創建任務目錄。"
+msgstr "Nie mozna utworzyc katalogu zadan na dysku twardym."
 
 #: pkgi_download.c:348
 msgid "Saving background task..."
-msgstr "保存後臺任務中..."
+msgstr "Zapisywanie w tle..."
 
 #: pkgi_download.c:354
 msgid "Could not create PKG file to HDD."
-msgstr "無法創建PKG文件到硬盤裏。"
+msgstr "Nie mozna utworzyc pliku PKG na HDD."
 
 #: pkgi_download.c:360
 msgid "Could not create task files to HDD."
-msgstr "無法創建任務文件到硬盘裏。"
+msgstr "Nie mozna utworzyc plik�w zadan na HDD."
 
 #: pkgi_download.c:425
 msgid "HTTP download error"
-msgstr "HTTP下載錯誤"
+msgstr "Blad pobierania HTTP"
 
 #: pkgi_download.c:432
 msgid "HTTP connection closed"
-msgstr "HTTP連接關閉"
+msgstr "Polaczenie HTTP zamkniete"
 
 #: pkgi_download.c:445
 msgid "failed to write to"
-msgstr "寫入失敗"
+msgstr "zapisywanie nie powiodlo sie"
 
 #: pkgi_download.c:465
 msgid "cannot create folder"
-msgstr "無法創建文件夹"
+msgstr "nie mozna utworzyc folderu"
 
 #: pkgi_download.c:475
 msgid "cannot create file"
-msgstr "無法創建文件"
+msgstr "nie mozna stworzyc pliku"
 
 #: pkgi_download.c:490
 msgid "cannot resume file"
-msgstr "無法恢復文件"
+msgstr "nie mozna wznowic pliku"
 
 #: pkgi_download.c:562
 msgid "pkg integrity failed, try downloading again"
-msgstr "pkg完整性失敗，請嘗試重新下載"
+msgstr "Integralnosc pakietu nie powiodla sie, sprobuj pobrac ponownie"
 
 #: pkgi_download.c:573
 msgid "Creating RAP file"
-msgstr "創建RAP文件中"
+msgstr "Tworzenie pliku RAP"
 
 #: pkgi_download.c:581 pkgi_download.c:626
 msgid "Cannot save"
-msgstr "無法保存"
+msgstr "Nie mozna zapisac"
 
 #: pkgi_download.c:621
 msgid "Creating RIF file"
-msgstr "創建RIF文件中"
+msgstr "Tworzenie pliku RIF"
 
 #: pkgi_download.c:646
 msgid "Resuming..."
-msgstr "恢復中..."
+msgstr "Wznawianie..."
 
 #: pkgi_download.c:652
 msgid "Adding background task..."
-msgstr "添加後臺任務中..."
+msgstr "Dodawanie zadania w tle..."
 
 #: pkgi_download.c:675
 msgid "Downloading icon"
-msgstr "下載圖標中"
+msgstr "Ikona pobierania"
 
 #: pkgi_download.c:713
 msgid "Could not create install directory on HDD."
-msgstr "無法在硬盤創建安裝目錄。"
+msgstr "Nie mozna utworzyc katalogu instalacyjnego na dysku twardym."
 
 #: pkgi_menu.c:102
 msgid "Search..."
-msgstr "搜索..."
+msgstr "Szukaj..."
 
 #: pkgi_menu.c:103
 msgid "Sort by:"
-msgstr "排序方式："
+msgstr "Sortuj wedlug:"
 
 #: pkgi_menu.c:104
 msgid "Title"
-msgstr "標題"
+msgstr "Tytul"
 
 #: pkgi_menu.c:105
 msgid "Region"
-msgstr "區域"
+msgstr "Region"
 
 #: pkgi_menu.c:106
 msgid "Name"
-msgstr "名稱"
+msgstr "Nazwa"
 
 #: pkgi_menu.c:107
 msgid "Size"
-msgstr "大小"
+msgstr "Rozmiar"
 
 #: pkgi_menu.c:108
 msgid "Content:"
-msgstr "內容："
+msgstr "Zawartosc:"
 
 #: pkgi_menu.c:110
 msgid "Regions:"
-msgstr "區域："
+msgstr "Regiony:"
 
 #: pkgi_menu.c:111
 msgid "Asia"
-msgstr "亞洲"
+msgstr "Azja"
 
 #: pkgi_menu.c:112
 msgid "Europe"
-msgstr "歐洲"
+msgstr "Europa"
 
 #: pkgi_menu.c:113
 msgid "Japan"
-msgstr "日本"
+msgstr "Japonia"
 
 #: pkgi_menu.c:114
 msgid "USA"
-msgstr "美國"
+msgstr "USA"
 
 #: pkgi_menu.c:115
 msgid "Options:"
-msgstr "選項："
+msgstr "Opcje:"
 
 #: pkgi_menu.c:116
 msgid "Back. DL"
-msgstr "後臺下載"
+msgstr "Przywroc. DL"
 
 #: pkgi_menu.c:117
 msgid "Music"
-msgstr "音樂"
+msgstr "Muzyka"
 
 #: pkgi_menu.c:119
 msgid "Refresh..."
-msgstr "刷新中..."
+msgstr "Odswiez..."
 
 #: pkgi_menu.c:326
 msgid "Direct DL"
-msgstr "直接下載"
+msgstr "Skieruj DL"
+
+#msgid "---translated by---"
+#msgstr "DEX357"
