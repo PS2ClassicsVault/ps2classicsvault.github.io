@@ -6,7 +6,8 @@ Join us on our new site: https://ps2classicsvault.github.io
 
 ## Announcment: ##
 We have reformed this github with the original source code with tweaks and configurations, this code is still in work in progress and may show inconsistancies relating to the code found in our application, please bear with us
-while we clean up and add the appropriate source code to this github, right now the code is not suitable to build from scratch as some code has been altered and reversed engineered for viewing purposes only & will not function properly!
+while we clean up and add the appropriate source code to this github, right now the code is not suitable to build from scratch as some code has been altered and reversed engineered for viewing purposes only & will not function properly,
+this does not mean our applications do not work they are built seperately from this code you view on this github, this code is for refrence only!
 
 # Automatic Install: #
 
