@@ -1,0 +1,14 @@
+url_games https://yourulcontent.com
+url_tools https://yourulcontent.com
+url_dlcs https://yourulcontent.com
+url_themes https://yourulcontent.com
+url_avatars https://yourulcontent.com
+url_demos https://yourulcontent.com
+url_apps https://yourulcontent.com
+url_emulators https://yourulcontent.com
+url_updates https://yourulcontent.com
+language en
+content 1
+sort name
+order asc
+filter ASA,EUR,JPN,USA
