@@ -1,8 +1,7 @@
 Code of Conduct
 ===============
 
-My goal is to provide the best service to users that utilize PS2 Classics Vault,
-as a open-source project i ask you to please follow the cod of conduct as i will address all concerns
+My goal is to provide the best service to users that utilize PS2 Classics Vault, as a open-source project i ask you to please follow the code of conduct as i will address all concerns
 & maintain this project to the best of my ability!
 
 As part of the open-source community, I expect everyone to:
