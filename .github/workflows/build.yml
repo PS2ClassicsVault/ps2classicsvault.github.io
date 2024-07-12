@@ -19,7 +19,7 @@ jobs:
     - name: Checkout mini18n
       uses: actions/checkout@v3
       with:
-        repository: PS2ClassicsVault/mini18n
+        repository: bucanero/mini18n
         path: mini18n
 
     - name: Set env vars
@@ -44,15 +44,15 @@ jobs:
       run: |
         make install
 
-    - name: Build PS2CV Store App Package
+    - name: Build PKGi App Package
       run: |
         make pkg
 
     - name: Push package artifact
       uses: actions/upload-artifact@v3
       with:
-        name: ps2cv-store-build_${{ env.sha_name }}
-        path: ps2cv-store.pkg
+        name: pkgi-ps3-build_${{ env.sha_name }}
+        path: pkgi-ps3.pkg
         if-no-files-found: error
         # don't keep artifacts for too long
         retention-days: 7
