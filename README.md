@@ -32,6 +32,8 @@ We are currently transferring games to a new server, if you magically encountere
 # NOTICE #4: #
 We do not condone piracy, we are only preserving the classics in a different form for the future. We also will NOT be providing any software that was developed by Nintendo so pleasee do not ask us for nintendo content!
 
+# Additional Information: #
+
 # Join Us: #
 
 - Reddit: https://www.reddit.com/r/ps2classicsvault
