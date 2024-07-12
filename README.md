@@ -2,7 +2,7 @@
 
 Welcome if you are here for ps2classicsvault then you are in the right place. Our store contains games from the PS1, PS2 & PS3 in one package!
 
-Join us on our new site: https://ps2classicsvault.github.io
+### Scroll down to view additional information such as links etc. ###
 
 ## Announcment: ##
 We have reformed this github with the original source code with tweaks and configurations, this code is still in work in progress and may show inconsistancies relating to the code found in our application, please bear with us
@@ -34,9 +34,10 @@ We do not condone piracy, we are only preserving the classics in a different for
 
 # Join Us: #
 
-Reddit: https://www.reddit.com/r/ps2classicsvault
+- Reddit: https://www.reddit.com/r/ps2classicsvault
+- Official Website: https://ps2classicsvault.github.io
 
 # Support us via Patreon: #
-PS2CV: https://patreon.com/ps2cv
+- https://patreon.com/ps2cv
 
 Patreon members have access to download out games to their PC, Priority Game Request fulfillment and a dedicated patreaon flair on our sub reddit (please provide your userhandle by sending us a message 👍
