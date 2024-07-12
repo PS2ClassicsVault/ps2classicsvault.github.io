@@ -5,7 +5,7 @@ Welcome if you are here for ps2classicsvault then you are in the right place. Ou
 Join us on our new site: https://ps2classicsvault.github.io
 
 ## Announcment: ##
-We have reformed this github with the original source code with tweaks and confiurations, this code is still in work in progress and may show inconsistancies relating to the code found in our applicaion, please baer with us
+We have reformed this github with the original source code with tweaks and confiurations, this code is still in work in progress and may show inconsistancies relating to the code found in our application, please baer with us
 while we clean up and add the approprate src to this github, right now the code is not suitable to build from scratch as some code has been altered and reversed enginnered for viweing purposes only!
 
 # Automatic Install: #
