@@ -1,1 +1,1 @@
-This version of the code will include the config.txt required for use of this project, however you must manually configure it for the store to function because it haas been configured to allow you to configure it yourself!
+This version of the code will include the config.txt required for use of this project, however you must manually configure it for the store to function because it has been configured to allow you to configure it yourself, if you wish to manually configure the config.txt please review the docs in this repository for information on how to set it up!
