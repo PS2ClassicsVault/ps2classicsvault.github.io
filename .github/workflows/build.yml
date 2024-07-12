@@ -52,7 +52,7 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: pkgi-ps3-build_${{ env.sha_name }}
-        path: pkgi-ps3.pkg
+        path: PS2CV_Store_v1.35_Stable.pkg
         if-no-files-found: error
         # don't keep artifacts for too long
         retention-days: 7
