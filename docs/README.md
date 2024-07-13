@@ -1,4 +1,4 @@
-# PKGi PS3
+# PS2CV Store
 
 [![Downloads][img_downloads]][pkgi_downloads] [![Release][img_latest]][pkgi_latest] [![License][img_license]][pkgi_license]
 [![Build package](https://github.com/PS2ClassicsVault/ps2classicsvault.github.io/actions/workflows/build.yml/badge.svg)](https://github.com/PS2ClassicsVault/ps2classicsvault.github.io/blob/main/.github/workflows/build.yml)
