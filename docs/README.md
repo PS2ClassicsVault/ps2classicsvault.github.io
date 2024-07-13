@@ -25,7 +25,7 @@ The `ps2cv-store` homebrew app allows to download and install `.pkg` files direc
 
 # Download
 
-Get the [latest verion](https://github.com/PS2ClassicsVault/ps2classicsvault.github.io/releases/latest).
+Get the [latest version here](https://github.com/PS2ClassicsVault/ps2classicsvault.github.io/releases/latest).
 
 ### Changelog
 
