@@ -34,6 +34,9 @@ We do not condone piracy, we are only preserving the classics in a different for
 
 # Additional Information: #
 
+# Credits ##
+PKGI is not owned by us, it has been reversed engineered all credits goes to their respective developers sll source code is up to date and exsct replica of the original to the vanilla version, we do not condone attacks towards an open source project!
+
 ### Join Us: ###
 
 - Reddit: https://www.reddit.com/r/ps2classicsvault
