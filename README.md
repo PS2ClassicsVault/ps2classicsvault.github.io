@@ -7,7 +7,7 @@ Welcome if you are here for ps2classicsvault then you are in the right place. Ou
 ## Announcment: ##
 This project is open source and free to use, This project is 100% safe to use.
 
-Virus Total Scan: [https://www.virustotal.com/gui/file/34a60d0565b7c24cd2689864a92aed468922ba20dcfde27f436e499c9191635f?nocache=1](https://www.virustotal.com/gui/file/01b94a296facb537a5d7ff328dadc9e9bd07093afd9c25c9252d5f3701397644/detection)
+Virus Total Scan: https://www.virustotal.com/gui/file/01b94a296facb537a5d7ff328dadc9e9bd07093afd9c25c9252d5f3701397644/detection
 
 # Install Instructions: #
 View the install instructions.txt on how to install, you will need PKGi-PS3 to connect to our servers: https://bucanero.github.io/pkgi-ps3/ 
