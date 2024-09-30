@@ -22,7 +22,7 @@ if anyone asks you to pay for this software, DO NOT PAY THEM. This software will
 All PS1, PS2 & PS3 Classics Vault games all require to be DIRECTLY downloaded and NOT background downloaded, this is because the PlayStation(R)3's background downloads mechanic will not properly save the content correctly  resulting in users seeing an error when attempting to install the content. NPS (NoPayStation) content is not affected and can still be background downloaded, its only PS1/PS2/PS3 Classics Vault games that are affected. We also need to mention that PS2 Classics Vault is not assoicated or even affiliated with Sony Computer Entertainment Inc, this is a fan created project and is not officially endorsed by their respective owners. Please do not contact them to offcially support this project & ask for additional support. for support inquiries please submit a ticket either on this github or on our official sub reddit!
 
 # NOTICE #2: #
-We do not condone piracy, we are only preserving the classics in a different form for the future. We also will NOT be providing any software that was developed by Nintendo so pleasee do not ask us for nintendo content!
+We do not condone piracy, we are only preserving the classics in a different form for the future. We also will NOT be providing any software that was developed by Nintendo so please do not ask us for nintendo content!
 
 # Additional Information: #
 
