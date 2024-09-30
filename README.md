@@ -27,7 +27,7 @@ All PS1, PS2 & PS3 Classics Vault games all require to be DIRECTLY downloaded an
 If you have the vanilla version of PKGi, it is HIGHLY RECOMMENDED to unistall that version before installing this version, you will encounter issues when installing our application over PKGi as they both share the same package folder name NP00PKGi, if you have installed this over PKGi and are experiencing issues, please consider uninstalling the app and doing a fresh re-install of the application.
 
 # NOTICE #3: #
-We are aware of individuals who attempt to be bas actors and spread misinformation in order to spread drama against this project we ask you ro read our post to ensure your up-to-date with the latest facts about this project: https://www.reddit.com/r/ps2classicsvault/s/OndP7rEVFiv Thank you!
+We are aware of individuals who attempt to be bad actors and spread misinformation in order to spread drama against this project we ask you ro read our post to ensure your up-to-date with the latest facts about this project: https://www.reddit.com/r/ps2classicsvault/s/OndP7rEVFiv Thank you!
 
 # NOTICE #4: #
 We do not condone piracy, we are only preserving the classics in a different form for the future. We also will NOT be providing any software that was developed by Nintendo so pleasee do not ask us for nintendo content!
