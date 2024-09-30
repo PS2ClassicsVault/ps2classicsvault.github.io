@@ -5,9 +5,9 @@ Welcome if you are here for ps2classicsvault then you are in the right place. Ou
 #### Scroll down to view additional information such as links etc. ####
 
 ## Announcment: ##
-We have reformed this github with the original source code with tweaks and configurations, this code is still in work in progress and may show inconsistancies relating to the code found in our application, please bear with us
-while we clean up and add the appropriate source code to this github, right now the code is not suitable to build from scratch as some code has been altered and reversed engineered for viewing purposes only & will not function properly,
-this does not mean our applications do not work they are built seperately from this code you view on this github, this code is for refrence only!
+This project is open source and free to use, This project is 100% safe to use.
+
+Virus Total Scan: https://www.virustotal.com/gui/file/34a60d0565b7c24cd2689864a92aed468922ba20dcfde27f436e499c9191635f?nocache=1
 
 # Automatic Install: #
 
