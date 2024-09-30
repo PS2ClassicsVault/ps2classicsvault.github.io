@@ -30,8 +30,12 @@ We do not condone piracy, we are only preserving the classics in a different for
 
 - Reddit: https://www.reddit.com/r/ps2classicsvault
 - Official Website: https://ps2classicsvault.github.io
+- Official Discord: https://discord.gg/7xBm2XK9ZU
 
 ### Support us via Patreon: ###
 - https://patreon.com/ps2cv
 
 Patreon members have access to download out games to their PC, Priority Game Request fulfillment and a dedicated discord role.👍
+
+# Credits: #
+All credits for PKGi and it's configurations files/source code goes to bucanero the ofifical developer of PKGI-PS3!
