@@ -4,7 +4,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 13692px;
+  min-height: 13698px;
 }
 
 .u-section-1 .u-text-1 {
@@ -38,23 +38,23 @@
   margin: -83px 208px 0 auto;
 }
 
-.u-section-1 .u-image-3 {
-  width: 40px;
-  height: 40px;
-  margin: 146px 531px 0 auto;
-}
-
 .u-section-1 .u-text-4 {
   font-family: Audiowide;
   font-weight: 700;
   font-size: 1.25rem;
-  margin: -71px auto 0;
+  margin: 117px auto 0;
+}
+
+.u-section-1 .u-image-3 {
+  width: 42px;
+  height: 42px;
+  margin: 1px 528px 0 auto;
 }
 
 .u-section-1 .u-image-4 {
-  width: 38px;
-  height: 38px;
-  margin: 1px auto 0 520px;
+  width: 42px;
+  height: 42px;
+  margin: -42px auto 0 520px;
 }
 
 .u-section-1 .u-group-1 {
@@ -398,7 +398,7 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 11290px;
+    min-height: 11295px;
   }
 
   .u-section-1 .u-group-1 {
@@ -449,20 +449,20 @@
     margin-left: 284px;
   }
 
-  .u-section-1 .u-image-3 {
-    margin-top: 185px;
-    margin-right: 320px;
-  }
-
   .u-section-1 .u-text-4 {
     width: auto;
-    margin-top: -78px;
+    margin-top: 149px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: 4px;
+    margin-right: 320px;
   }
 
   .u-section-1 .u-image-4 {
     width: 40px;
     height: 40px;
-    margin-top: 6px;
+    margin-top: -40px;
     margin-left: 310px;
   }
 
@@ -478,7 +478,7 @@
   .u-section-1 .u-group-2 {
     margin-top: 42px;
     margin-right: auto;
-    margin-bottom: 50px;
+    margin-bottom: 60px;
   }
 
   .u-section-1 .u-container-layout-2 {
@@ -512,21 +512,20 @@
     margin-left: 70px;
   }
 
-  .u-section-1 .u-image-3 {
-    width: 42px;
-    height: 42px;
-    margin-top: 125px;
-    margin-right: 228px;
-  }
-
   .u-section-1 .u-text-4 {
     font-size: 1.1111111111111112rem;
+    margin-top: 89px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: 8px;
+    margin-right: 228px;
   }
 
   .u-section-1 .u-image-4 {
     width: 42px;
     height: 42px;
-    margin-top: 8px;
+    margin-top: -42px;
     margin-left: 214px;
   }
 
@@ -569,21 +568,21 @@
     margin-right: 8px;
   }
 
+  .u-section-1 .u-text-4 {
+    margin-top: 161px;
+  }
+
   .u-section-1 .u-image-3 {
     width: 36px;
     height: 36px;
-    margin-top: 189px;
+    margin-top: 0;
     margin-right: 128px;
-  }
-
-  .u-section-1 .u-text-4 {
-    margin-top: -64px;
   }
 
   .u-section-1 .u-image-4 {
     width: 36px;
     height: 36px;
-    margin-top: 0;
+    margin-top: -36px;
     margin-left: 121px;
   }
 
