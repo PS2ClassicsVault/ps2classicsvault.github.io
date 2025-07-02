@@ -12,9 +12,9 @@
 }
 
 .u-section-1 .u-image-2 {
-  width: 128px;
-  height: 128px;
-  margin: -212px 228px 0 auto;
+  width: 147px;
+  height: 147px;
+  margin: -201px calc(((100% - 1140px) / 2)  + -118px) 0 auto;
 }
 
 .u-section-1 .u-text-1 {
@@ -23,7 +23,7 @@
   font-weight: 700;
   text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
   width: 591px;
-  margin: -99px auto 0;
+  margin: -129px auto 0;
 }
 
 .u-section-1 .u-text-2 {
@@ -34,14 +34,8 @@
 .u-section-1 .u-text-3 {
   font-family: Audiowide;
   font-size: 1.25rem;
-  margin: -28px 228px 0 1612px;
-}
-
-.u-section-1 .u-text-4 {
-  font-family: Audiowide;
-  font-size: 1.25rem;
   font-weight: 700;
-  margin: 112px auto 0;
+  margin: 108px auto 0;
 }
 
 .u-section-1 .u-image-3 {
@@ -75,153 +69,153 @@
   padding: 0 0 30px;
 }
 
-.u-section-1 .u-text-5 {
+.u-section-1 .u-text-4 {
   font-size: 1.5rem;
   font-family: Audiowide;
   font-weight: 700;
   margin: 43px 54px 0;
 }
 
-.u-section-1 .u-text-6 {
+.u-section-1 .u-text-5 {
   font-family: "Fugaz One";
   font-size: 2.25rem;
   font-weight: 700;
   margin: 34px auto 0 12px;
 }
 
-.u-section-1 .u-text-7 {
+.u-section-1 .u-text-6 {
   margin: 0 auto 0 11px;
 }
 
-.u-section-1 .u-text-8 {
+.u-section-1 .u-text-7 {
   font-size: 2.25rem;
   font-family: "Fugaz One";
   font-weight: 700;
   margin: 42px auto 0 9px;
 }
 
-.u-section-1 .u-text-9 {
+.u-section-1 .u-text-8 {
   margin: 0 7px 0 4px;
 }
 
-.u-section-1 .u-text-10 {
+.u-section-1 .u-text-9 {
   font-size: 2.25rem;
   font-family: "Fugaz One";
   font-weight: 700;
   margin: 21px auto 0 9px;
 }
 
-.u-section-1 .u-text-11 {
+.u-section-1 .u-text-10 {
   margin: 0 auto 0 5px;
 }
 
-.u-section-1 .u-text-12 {
+.u-section-1 .u-text-11 {
   font-size: 2.25rem;
   font-family: "Fugaz One";
   font-weight: 700;
   margin: 20px auto 0 10px;
 }
 
-.u-section-1 .u-text-13 {
+.u-section-1 .u-text-12 {
   margin: 0 auto 0 6px;
 }
 
-.u-section-1 .u-text-14 {
+.u-section-1 .u-text-13 {
   font-size: 2.25rem;
   font-family: "Fugaz One";
   font-weight: 700;
   margin: 28px auto 0 13px;
 }
 
-.u-section-1 .u-text-15 {
+.u-section-1 .u-text-14 {
   margin: 0 9px 0 5px;
 }
 
-.u-section-1 .u-text-16 {
+.u-section-1 .u-text-15 {
   font-size: 2.25rem;
   font-family: "Fugaz One";
   font-weight: 700;
   margin: 30px auto 0 13px;
 }
 
-.u-section-1 .u-text-17 {
+.u-section-1 .u-text-16 {
   margin: -2px 9px 0 5px;
 }
 
-.u-section-1 .u-text-18 {
+.u-section-1 .u-text-17 {
   font-size: 2.25rem;
   font-family: "Fugaz One";
   font-weight: 700;
   margin: 30px auto 0 10px;
 }
 
-.u-section-1 .u-text-19 {
+.u-section-1 .u-text-18 {
   margin: 5px 9px 0 5px;
 }
 
-.u-section-1 .u-text-20 {
+.u-section-1 .u-text-19 {
   font-size: 2.25rem;
   font-family: "Fugaz One";
   font-weight: 700;
   margin: 17px auto 0 11px;
 }
 
-.u-section-1 .u-text-21 {
+.u-section-1 .u-text-20 {
   margin: 1px 11px 0 3px;
 }
 
-.u-section-1 .u-text-22 {
+.u-section-1 .u-text-21 {
   font-size: 2.25rem;
   font-family: "Fugaz One";
   font-weight: 700;
   margin: 17px auto 0 10px;
 }
 
-.u-section-1 .u-text-23 {
+.u-section-1 .u-text-22 {
   margin: 0 9px 0 5px;
 }
 
-.u-section-1 .u-text-24 {
+.u-section-1 .u-text-23 {
   font-size: 2.25rem;
   font-family: "Fugaz One";
   font-weight: 700;
   margin: 12px auto 0 10px;
 }
 
-.u-section-1 .u-text-25 {
+.u-section-1 .u-text-24 {
   margin: 0 7px;
 }
 
-.u-section-1 .u-text-26 {
+.u-section-1 .u-text-25 {
   font-size: 2.25rem;
   font-family: "Fugaz One";
   font-weight: 700;
   margin: 20px auto 0 12px;
 }
 
-.u-section-1 .u-text-27 {
+.u-section-1 .u-text-26 {
   margin: 0 9px 0 5px;
 }
 
-.u-section-1 .u-text-28 {
+.u-section-1 .u-text-27 {
   font-size: 2.25rem;
   font-family: "Fugaz One";
   font-weight: 700;
   margin: 17px auto 0 12px;
 }
 
-.u-section-1 .u-text-29 {
+.u-section-1 .u-text-28 {
   margin: 0 7px;
 }
 
-.u-section-1 .u-text-30 {
+.u-section-1 .u-text-29 {
   font-size: 2.25rem;
   font-family: "Fugaz One";
   font-weight: 700;
   margin: 19px auto 0 12px;
 }
 
-.u-section-1 .u-text-31 {
+.u-section-1 .u-text-30 {
   margin: 0 7px;
 }
 
@@ -244,164 +238,164 @@
   padding: 30px 0;
 }
 
-.u-section-1 .u-text-32 {
+.u-section-1 .u-text-31 {
   font-family: Audiowide;
   font-size: 1.5rem;
   font-weight: 700;
   margin: 7px 31px 0 36px;
 }
 
-.u-section-1 .u-text-33 {
+.u-section-1 .u-text-32 {
   font-family: "Fugaz One";
   font-size: 2.25rem;
   font-weight: 700;
   margin: 38px auto 0 8px;
 }
 
-.u-section-1 .u-text-34 {
+.u-section-1 .u-text-33 {
   margin: 0 auto 0 6px;
 }
 
-.u-section-1 .u-text-35 {
+.u-section-1 .u-text-34 {
   font-family: "Fugaz One";
   font-size: 2.25rem;
   font-weight: 700;
   margin: 13px auto 0 8px;
 }
 
-.u-section-1 .u-text-36 {
+.u-section-1 .u-text-35 {
   margin: 0 0 0 5px;
 }
 
-.u-section-1 .u-text-37 {
+.u-section-1 .u-text-36 {
   font-family: "Fugaz One";
   font-size: 2.25rem;
   font-weight: 700;
   margin: 20px auto 0 9px;
 }
 
-.u-section-1 .u-text-38 {
+.u-section-1 .u-text-37 {
   margin: 5px 4px 0 7px;
 }
 
-.u-section-1 .u-text-39 {
+.u-section-1 .u-text-38 {
   font-family: "Fugaz One";
   font-size: 2.25rem;
   font-weight: 700;
   margin: 18px auto 0 8px;
 }
 
-.u-section-1 .u-text-40 {
+.u-section-1 .u-text-39 {
   margin: 0 5px;
+}
+
+.u-section-1 .u-text-40 {
+  font-family: "Fugaz One";
+  font-size: 2.25rem;
+  font-weight: 700;
+  margin: 20px auto 0 8px;
 }
 
 .u-section-1 .u-text-41 {
-  font-family: "Fugaz One";
-  font-size: 2.25rem;
-  font-weight: 700;
-  margin: 20px auto 0 8px;
+  margin: 0 5px;
 }
 
 .u-section-1 .u-text-42 {
-  margin: 0 5px;
+  font-family: "Fugaz One";
+  font-size: 2.25rem;
+  font-weight: 700;
+  margin: 20px auto 0 8px;
 }
 
 .u-section-1 .u-text-43 {
-  font-family: "Fugaz One";
-  font-size: 2.25rem;
-  font-weight: 700;
-  margin: 20px auto 0 8px;
-}
-
-.u-section-1 .u-text-44 {
   margin: 0 5px;
 }
 
-.u-section-1 .u-text-45 {
+.u-section-1 .u-text-44 {
   font-family: "Fugaz One";
   font-size: 2.25rem;
   font-weight: 700;
   margin: 20px auto 0 8px;
 }
 
-.u-section-1 .u-text-46 {
+.u-section-1 .u-text-45 {
   margin: 0 4px 0 6px;
 }
 
-.u-section-1 .u-text-47 {
+.u-section-1 .u-text-46 {
   font-family: "Fugaz One";
   font-size: 2.25rem;
   font-weight: 700;
   margin: 28px auto 0 8px;
 }
 
-.u-section-1 .u-text-48 {
+.u-section-1 .u-text-47 {
   margin: 0 5px;
 }
 
-.u-section-1 .u-text-49 {
+.u-section-1 .u-text-48 {
   font-family: "Fugaz One";
   font-size: 2.25rem;
   font-weight: 700;
   margin: 20px auto 0 7px;
 }
 
-.u-section-1 .u-text-50 {
+.u-section-1 .u-text-49 {
   margin: 0 5px;
+}
+
+.u-section-1 .u-text-50 {
+  font-family: "Fugaz One";
+  font-size: 2.25rem;
+  font-weight: 700;
+  margin: 19px auto 0 8px;
 }
 
 .u-section-1 .u-text-51 {
-  font-family: "Fugaz One";
-  font-size: 2.25rem;
-  font-weight: 700;
-  margin: 19px auto 0 8px;
+  margin: 0 5px;
 }
 
 .u-section-1 .u-text-52 {
-  margin: 0 5px;
-}
-
-.u-section-1 .u-text-53 {
   font-family: "Fugaz One";
   font-size: 2.25rem;
   font-weight: 700;
   margin: 19px auto 0 8px;
 }
 
-.u-section-1 .u-text-54 {
+.u-section-1 .u-text-53 {
   margin: 0 5px;
 }
 
-.u-section-1 .u-text-55 {
+.u-section-1 .u-text-54 {
   font-family: "Fugaz One";
   font-size: 2.25rem;
   font-weight: 700;
   margin: 27px auto 0 8px;
 }
 
-.u-section-1 .u-text-56 {
+.u-section-1 .u-text-55 {
   margin: 0 5px;
 }
 
-.u-section-1 .u-text-57 {
+.u-section-1 .u-text-56 {
   font-family: "Fugaz One";
   font-size: 2.25rem;
   font-weight: 700;
   margin: 29px auto 0 9px;
 }
 
-.u-section-1 .u-text-58 {
+.u-section-1 .u-text-57 {
   margin: 0 5px;
 }
 
-.u-section-1 .u-text-59 {
+.u-section-1 .u-text-58 {
   font-family: "Fugaz One";
   font-size: 2.25rem;
   font-weight: 700;
   margin: 20px auto 0 9px;
 }
 
-.u-section-1 .u-text-60 {
+.u-section-1 .u-text-59 {
   margin: 0 5px;
 }
 
@@ -432,13 +426,7 @@
   }
 
   .u-section-1 .u-text-3 {
-    margin-top: -173px;
-    margin-right: calc(((100% - 940px) / 2)  + 21px);
-    margin-left: calc(((100% - 940px) / 2)  + 719px);
-  }
-
-  .u-section-1 .u-text-4 {
-    margin-top: 252px;
+    margin-top: 103px;
   }
 
   .u-section-1 .u-image-3 {
@@ -466,7 +454,7 @@
     height: auto;
   }
 
-  .u-section-1 .u-text-34 {
+  .u-section-1 .u-text-33 {
     margin-left: 0;
   }
 }
@@ -508,14 +496,6 @@
 
   .u-section-1 .u-text-3 {
     width: auto;
-    margin-top: -119px;
-    margin-right: calc(((100% - 720px) / 2)  + -33px);
-    margin-left: calc(((100% - 720px) / 2)  + 570px);
-  }
-
-  .u-section-1 .u-text-4 {
-    width: auto;
-    margin-top: 198px;
   }
 
   .u-section-1 .u-image-3 {
@@ -547,7 +527,7 @@
     padding-top: 22px;
   }
 
-  .u-section-1 .u-text-32 {
+  .u-section-1 .u-text-31 {
     margin-top: 3px;
   }
 }
@@ -582,13 +562,7 @@
   }
 
   .u-section-1 .u-text-3 {
-    margin-top: -179px;
-    margin-right: calc(((100% - 540px) / 2)  + -33px);
-    margin-left: calc(((100% - 540px) / 2)  + 390px);
-  }
-
-  .u-section-1 .u-text-4 {
-    margin-top: 177px;
+    margin-top: 22px;
   }
 
   .u-section-1 .u-image-3 {
@@ -606,57 +580,57 @@
     width: auto;
   }
 
-  .u-section-1 .u-text-5 {
+  .u-section-1 .u-text-4 {
     margin-right: 0;
     margin-left: 0;
   }
 
-  .u-section-1 .u-text-9 {
+  .u-section-1 .u-text-8 {
     margin-right: 0;
     margin-left: 0;
   }
 
-  .u-section-1 .u-text-15 {
+  .u-section-1 .u-text-14 {
     margin-right: 0;
     margin-left: 0;
   }
 
-  .u-section-1 .u-text-17 {
+  .u-section-1 .u-text-16 {
     margin-right: 0;
     margin-left: 0;
   }
 
-  .u-section-1 .u-text-19 {
+  .u-section-1 .u-text-18 {
     margin-right: 0;
     margin-left: 0;
   }
 
-  .u-section-1 .u-text-21 {
+  .u-section-1 .u-text-20 {
     margin-right: 0;
     margin-left: 0;
   }
 
-  .u-section-1 .u-text-23 {
+  .u-section-1 .u-text-22 {
     margin-right: 0;
     margin-left: 0;
   }
 
-  .u-section-1 .u-text-25 {
+  .u-section-1 .u-text-24 {
     margin-left: 0;
     margin-right: 0;
   }
 
-  .u-section-1 .u-text-27 {
+  .u-section-1 .u-text-26 {
     margin-right: 0;
     margin-left: 0;
   }
 
-  .u-section-1 .u-text-29 {
+  .u-section-1 .u-text-28 {
     margin-left: 0;
     margin-right: 0;
   }
 
-  .u-section-1 .u-text-31 {
+  .u-section-1 .u-text-30 {
     margin-left: 0;
     margin-right: 0;
   }
@@ -698,13 +672,7 @@
   }
 
   .u-section-1 .u-text-3 {
-    margin-top: -189px;
-    margin-right: calc(((100% - 340px) / 2)  + -37px);
-    margin-left: calc(((100% - 340px) / 2)  + 194px);
-  }
-
-  .u-section-1 .u-text-4 {
-    margin-top: 181px;
+    margin-top: 16px;
   }
 
   .u-section-1 .u-image-3 {
@@ -727,13 +695,13 @@
     padding-top: 0;
   }
 
-  .u-section-1 .u-text-5 {
+  .u-section-1 .u-text-4 {
     font-size: 1.125rem;
     width: auto;
     margin-left: 22px;
   }
 
-  .u-section-1 .u-text-9 {
+  .u-section-1 .u-text-8 {
     margin-left: 5px;
   }
 
@@ -744,73 +712,73 @@
     margin-left: initial;
   }
 
-  .u-section-1 .u-text-32 {
+  .u-section-1 .u-text-31 {
     font-size: 1.125rem;
     margin-left: 0;
     margin-right: 0;
   }
 
-  .u-section-1 .u-text-36 {
+  .u-section-1 .u-text-35 {
     margin-left: 0;
     margin-right: 5px;
   }
 
-  .u-section-1 .u-text-38 {
+  .u-section-1 .u-text-37 {
     margin-right: 0;
     margin-left: 0;
   }
 
-  .u-section-1 .u-text-40 {
+  .u-section-1 .u-text-39 {
     margin-left: 0;
     margin-right: 0;
   }
 
-  .u-section-1 .u-text-42 {
+  .u-section-1 .u-text-41 {
     margin-left: 0;
     margin-right: 0;
   }
 
-  .u-section-1 .u-text-44 {
+  .u-section-1 .u-text-43 {
     margin-left: 0;
     margin-right: 0;
   }
 
-  .u-section-1 .u-text-46 {
+  .u-section-1 .u-text-45 {
     margin-right: 0;
     margin-left: 0;
   }
 
-  .u-section-1 .u-text-48 {
+  .u-section-1 .u-text-47 {
     margin-left: 0;
     margin-right: 0;
   }
 
-  .u-section-1 .u-text-50 {
+  .u-section-1 .u-text-49 {
     margin-left: 0;
     margin-right: 0;
   }
 
-  .u-section-1 .u-text-52 {
+  .u-section-1 .u-text-51 {
     margin-left: 0;
     margin-right: 0;
   }
 
-  .u-section-1 .u-text-54 {
+  .u-section-1 .u-text-53 {
     margin-left: 0;
     margin-right: 0;
   }
 
-  .u-section-1 .u-text-56 {
+  .u-section-1 .u-text-55 {
     margin-left: 0;
     margin-right: 0;
   }
 
-  .u-section-1 .u-text-58 {
+  .u-section-1 .u-text-57 {
     margin-left: 0;
     margin-right: 0;
   }
 
-  .u-section-1 .u-text-60 {
+  .u-section-1 .u-text-59 {
     margin-left: 0;
     margin-right: 0;
   }
