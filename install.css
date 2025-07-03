@@ -100,14 +100,14 @@
   .u-section-1 .u-image-2 {
     width: 298px;
     height: 34px;
-    margin-top: -145px;
-    margin-left: 0;
+    margin-top: -142px;
+    margin-left: calc(((100% - 720px) / 2)  + -36px);
   }
 
   .u-section-1 .u-video-1 {
     height: 410px;
     width: 792px;
-    margin-top: 181px;
+    margin-top: 178px;
     margin-right: auto;
   }
 }
