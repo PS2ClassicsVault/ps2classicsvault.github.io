@@ -85,6 +85,11 @@
   margin: -33px auto 0 calc(((100% - 1140px) / 2)  + 171px);
 }
 
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-1 .u-video-1 {
   width: 778px;
   height: 501px;
