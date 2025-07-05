@@ -40,12 +40,14 @@
 .u-section-1 .u-image-3 {
   width: 42px;
   height: 42px;
+  box-shadow: 2px 0 0 0 rgba(0,0,0,0);
   margin: 0 calc(((100% - 1140px) / 2)  + 528px) 0 auto;
 }
 
 .u-section-1 .u-image-4 {
   width: 42px;
   height: 42px;
+  box-shadow: 2px 0 0 0 rgba(0,0,0,0);
   margin: -42px auto 0 calc(((100% - 1140px) / 2)  + 514px);
 }
 
@@ -56,8 +58,11 @@
   --color-var: #0969c3;
   height: auto;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  --animation-custom_in-translate_x: -300px;
-  --animation-custom_in-translate_y: 0px;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(to bottom, rgba(var(--color-var-r), var(--color-var-g), var(--color-var-b), 1), rgba(var(--color-var-r), var(--color-var-g), var(--color-var-b), 1));
+  background-size: cover;
+  transition-duration: 0.5s;
   margin: 46px auto 0 calc(((100% - 1140px) / 2)  + -330px);
 }
 
@@ -221,13 +226,13 @@
   min-height: 13326px;
   --color-var: #0969c3;
   height: auto;
-  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  --animation-custom_in-translate_x: 300px;
-  --animation-custom_in-translate_y: 0px;
-  --animation-custom_in-opacity: 0;
-  --animation-custom_in-rotate: 0deg;
-  --animation-custom_in-scale: 1;
-  margin: -13323px calc(((100% - 1140px) / 2)  + -372px) 0 auto;
+  box-shadow: 2px 0 0 0 rgba(0,0,0,0);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(to bottom, rgba(var(--color-var-r), var(--color-var-g), var(--color-var-b), 1), rgba(var(--color-var-r), var(--color-var-g), var(--color-var-b), 1));
+  background-size: cover;
+  transition-duration: 0.5s;
+  margin: -13323px calc(((100% - 1140px) / 2)  + -373px) 0 auto;
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -411,6 +416,7 @@
   .u-section-1 .u-image-2 {
     margin-top: -315px;
     margin-right: calc(((100% - 940px) / 2)  + -112px);
+    transition-duration: 0.5s;
   }
 
   .u-section-1 .u-text-2 {
@@ -425,18 +431,27 @@
 
   .u-section-1 .u-image-3 {
     margin-right: calc(((100% - 940px) / 2) + 528px);
+    transition-duration: 0.5s;
   }
 
   .u-section-1 .u-image-4 {
     margin-left: calc(((100% - 940px) / 2) + 514px);
+    transition-duration: 0.5s;
   }
 
   .u-section-1 .u-group-1 {
     margin-left: calc(((100% - 940px) / 2) + -330px);
+    --animation-custom_in-translate_x: -300px;
+    --animation-custom_in-translate_y: 0px;
     height: auto;
   }
 
   .u-section-1 .u-group-2 {
+    --animation-custom_in-translate_x: 300px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
     margin-top: 20px;
     margin-right: calc(((100% - 940px) / 2)  + -184px);
     height: auto;
@@ -773,4 +788,24 @@
   .u-section-1 .u-text-35 {
     margin-right: 5px;
   }
+}
+
+.u-section-1 .u-group-2,
+.u-section-1 .u-group-2:before,
+.u-section-1 .u-group-2 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-1 .u-group-2.u-group-2.u-group-2:hover {
+  box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
+}
+
+.u-section-1 .u-group-2.u-group-2.u-group-2.hover {
+  box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
+}
+
+.u-section-1 .u-group-1,
+.u-section-1 .u-group-1:before,
+.u-section-1 .u-group-1 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }

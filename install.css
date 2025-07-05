@@ -35,8 +35,8 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  width: 1877px;
-  margin: 109px calc(((100% - 1140px) / 2)  + -378px) 60px auto;
+  width: 1896px;
+  margin: 109px auto 60px;
 }
 
 .u-section-1 .embed-responsive-1 {
@@ -67,7 +67,7 @@
   }
 
   .u-section-1 .u-video-1 {
-    height: 528px;
+    height: 523px;
     width: 940px;
     margin-top: 136px;
     margin-right: calc(((100% - 940px) / 2));
