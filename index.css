@@ -58,11 +58,6 @@
   font-weight: 700;
   font-family: Audiowide;
   font-size: 1.875rem;
-  --animation-custom_in-translate_x: -200px;
-  --animation-custom_in-translate_y: 0px;
-  --animation-custom_in-opacity: 0;
-  --animation-custom_in-rotate: 0deg;
-  --animation-custom_in-scale: 1;
   margin: -33px auto 0 calc(((100% - 1140px) / 2)  + 171px);
 }
 
@@ -164,6 +159,11 @@
 
   .u-section-1 .u-text-1 {
     margin-left: calc(((100% - 940px) / 2)  + 120px);
+    --animation-custom_in-translate_x: -200px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
   }
 
   .u-section-1 .u-btn-1 {
