@@ -1,0 +1,24 @@
+{
+  "DATA": {
+    "urltogamepkg": {
+      "title_id": "CUSA00000",
+      "region": "ALL",
+      "name": "nameofgame",
+      "version": "1.00",
+      "release": "01-01-9999",
+      "size": 13333333337,
+      "min_fw": "4.00",
+      "cover_url": "imageurl"
+    },
+    "urltogamepkg": {
+      "title_id": "CUSA00001",
+      "region": "ALL",
+      "name": "nameofgame",
+      "version": "1.00",
+      "release": "01-01-9999",
+      "size": 13333333337,
+      "min_fw": "4.00",
+      "cover_url": "coveriamgeurl"
+    }
+  }
+}
